@@ -1,2 +1,1 @@
-# tourbier-elodie.github.io
-rakonto gif page
+# elodie-tourbier.github.io
